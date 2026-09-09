@@ -1,0 +1,8 @@
+qcards: 90
+solutions: 90
+units: 13
+tables: 186
+solution_visuals: 25
+empty_solutions: 0
+packed_calc: 0
+nav_onclick: 0
